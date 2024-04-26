@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img width="960" alt="image" src="https://github.com/bukka5sandhya/React-Multi-Card-Carousel-with-Slider-and-dots/assets/133884532/f5eadd58-691e-451f-a24a-198f53acf856">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
