@@ -1,0 +1,40 @@
+.card{
+    margin-top:40px;
+}
+.button{
+    background-color: black;
+    color:white;
+    height:50px;
+    width:200px;
+    font-size:20px;
+    margin:20px;
+}
+.product-image{
+    width:350px;
+    height:500px;
+    margin:20px;
+}
+
+.heading-product{
+    font-size:25px;
+    font-family: 'Roboto';
+    margin:20px;
+    padding:5px;
+    font-weight: bold;
+
+}
+.price-product{
+    font-size:25px;
+    font-family: 'Roboto';
+    padding:5px;
+    margin:20px;
+    font-weight:500;
+
+}
+.text-product{
+    font-size:20px;
+    font-family: 'Roboto';
+    padding:5px;
+    margin:20px;
+    
+}
